@@ -1,6 +1,6 @@
 ## Eu sou Emanuel Rodrigues!
  
-Sou Android Developer Jr | Koltin.
+Android Developer Jr | Koltin.
  
  
 ## About me 
